@@ -1,8 +1,9 @@
 ##### v3.1.1
-###### 2021-04-16
+###### 2021-04-20
 
 * Fix SSO flow broken by v3.0.0 update
 * Fix for regtest network errors on homepage
+* Fix for server errors in Docker-based installs
 
 
 ##### v3.1.0
